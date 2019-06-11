@@ -72,6 +72,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DatabaseDataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="Employees\Chef.cs" />
+    <Compile Include="Employees\Cook.cs" />
+    <Compile Include="Employees\Diver.cs" />
+    <Compile Include="Employees\Employee.cs" />
+    <Compile Include="Employees\KitchenHelper.cs" />
     <Compile Include="Models\Database.cs" />
     <Compile Include="Models\ingredients.cs" />
     <Compile Include="Models\list.cs" />
